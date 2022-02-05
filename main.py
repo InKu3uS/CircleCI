@@ -1,8 +1,8 @@
 def Add(a, b):
         return a + b
         
-def SayHello():
+def DiHola():
         print("Hola a todos")
 
 if __name__ == '__main__':
-        SayHello()
+        DiHola()
