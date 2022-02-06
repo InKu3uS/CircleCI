@@ -42,7 +42,7 @@ Empresas como Spotify, Coinbase, Stitch Fix y BuzzFeed utilizan esta solución p
 de ingeniería, lanzar mejores productos y salir al mercado más rápido.
 
 
-![](imagenes/0.png)
+![](imagenes/0.PNG)
 
 
 ## **2. Parte 2**<a name="id2"></a>
@@ -76,7 +76,7 @@ Como se ve en la imagen a continuación.
 
 También podremos añadir otros repositorios si nos dirigimos al menú "Projects" 
 
-![](imagenes/7.png)
+![](imagenes/7.PNG)
 
 ## **5. Parte 5**<a name="id5"></a>
 
@@ -86,22 +86,22 @@ notificaciones que vamos a recibir al desplegar el proyecto o incluso crear
 "Badges" para añadir a paginas web o a documentos en Markdown que nos indican en tiempo real el estado de el último despliegue. 
 Como este : [![CircleCI](https://circleci.com/gh/InKu3uS/CircleCI/tree/main.svg?style=svg)](https://circleci.com/gh/InKu3uS/CircleCI/tree/main)
 
-![](imagenes/3.png)
+![](imagenes/3.PNG)
 
 ## **6. Parte 6**<a name="id6"></a>
 
 Para este caso, he usado una aplicación muy sencilla en Python. Que contiene una función que recibe dos números y los suma, y un otra función que llama a la anterior y realiza la suma de 5+5
 
-![](imagenes/4.png)
+![](imagenes/4.PNG)
 
 Y también un test que comprueba que el resultado de sumar los números 2 y 3 sea igual a 5.
 
-![](imagenes/5.png)
+![](imagenes/5.PNG)
 
 Y subimos los cambios al repositorio de GitHub.
 
 
-![](imagenes/6.png)
+![](imagenes/6.PNG)
 
 ## **7. Parte 7**<a name="id7"></a>
 
@@ -111,7 +111,7 @@ crear un archivo **"config.yml"** para este.
 Nos preguntará bajo que lenguaje estamos trabajando y nos creará uno por defecto, el cual después de modificar quedó de esta manera.
 
 
-![](imagenes/8.png)
+![](imagenes/8.PNG)
 
 ## **8. Parte 8**<a name="id8"></a>
 
@@ -119,13 +119,13 @@ Nos preguntará bajo que lenguaje estamos trabajando y nos creará uno por defec
 Una vez terminado de configurar el **"config.yml"** y subidos los cambios a GitHub, CircleCI ejecutará el Pipeline
 de manera automática.
 
-![](imagenes/9.png)
+![](imagenes/9.PNG)
 
 
 Si todos los pasos del Pipeline se han ejecutado de manera correcta veremos una pantalla que nos mostrará los
 pasos creados en el Pipeline marcados en verde.
 
-![](imagenes/10.png)
+![](imagenes/10.PNG)
 
 
 Podremos pulsar sobre cualquiera de los pasos para ver los resultados con más detalle.
@@ -133,11 +133,11 @@ Podremos pulsar sobre cualquiera de los pasos para ver los resultados con más d
 Resultados de **"Build"**
 
 
-![](imagenes/11.png)
+![](imagenes/11.PNG)
 
 Resultados de **"Test"**
 
-![](imagenes/12.png)
+![](imagenes/12.PNG)
 
 
 ## **9. Parte 9**<a name="id9"></a>
@@ -146,4 +146,4 @@ Por último si vamos a la sección **"Insight"** del proyecto podremos ver los d
 numero de veces que se ha ejecutado, porcentaje de éxito, tiempo total de ejecución, media de ejecuciones por dia,
 media de tiempo de ejecución y **"Tickets"** gastados dicho proyecto.
 
-![](imagenes/13.png)
+![](imagenes/13.PNG)
